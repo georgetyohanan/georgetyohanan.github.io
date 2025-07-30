@@ -6,38 +6,33 @@ I am dedicated to helping the enterprise consistently surpass its targeted goals
 My focus is on enhancing developer productivity by enforcing the DRY (Don’t Repeat Yourself) principle across enterprise processes and tools. 
 Additionally, I aim to improve tool usability across the enterprise to empower developers to focus on achieving business objectives rather than being constrained by the complexities of supporting tools
 
-[Link to another page](./another-page.html).
+## Education & Professional Certifications
 
-There should be whitespace between paragraphs.
+- Bachelor of Technology in Computer Science and Engineering – India
+- AWS Certified Developer – Associate
+- Oracle Certified Professional, Java EE 5 Web Component Developer
+- Sun Certified Programmer for the Java Platform, SE 5.0
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Established Special Skills & Technology Exposures
 
-# Header 1
+- 15+ years of development in Java working across AirCargo Management, eCommerce and Financial industries
+- 15+ years working with various Architects and Senior Leadership across three different
+counties (India, Japan, and USA) in multiple industry sectors like Air Cargo, eCommerce,
+and Finance
+- 10+ years of experience collaborating with business teams to ensure the successful and timely execution of projects for clients across the globe, including Qantas Airlines Australia, NCA and TIACT in Japan, as well as Sears, Experian, REI, and BassPro Cabela’s in the USA. My project portfolio includes:
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+  •	Qantas Airlines Australia (2004): Managed US Mail operations.
+	•	NCA - Nippon Cargo Airlines (2006): Implemented AirMail solutions.
+	•	TIACT - Tokyo International Air Cargo Terminal (2008): Oversaw cargo export and import operations software at the newly established International Air Cargo Terminal.
+	•	Sears (2010): Developed and deployed eCommerce solution.
+	•	Experian (2018): Delivered credit reporting services.
+	•	REI (2021): Facilitated REI’s onboarding to the Capital One Partnerships Card program.
+	•	BassPro Cabela’s (2024): Migration of vendor-managed card printing software from Capital One’s AWS account to the vendor’s SaaS platform.
+ 
+- 10+ years of leadership experience in managing teams, conducting interviews and mentoring Junior Engineers
+- 10+ years of working on using Spring Framework, Spring Boot, Spring JPA as part of a
+- Agile Scrum Team following SAFe Framework. Also contributed features to the Capital One Enterprise Framework based on Spring
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
