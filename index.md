@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am dedicated to helping the enterprise consistently surpass its targeted goals year after year. 
+My focus is on enhancing developer productivity by enforcing the DRY (Don’t Repeat Yourself) principle across enterprise processes and tools. 
+Additionally, I aim to improve tool usability across the enterprise to empower developers to focus on achieving business objectives rather than being constrained by the complexities of supporting tools
 
 [Link to another page](./another-page.html).
 
