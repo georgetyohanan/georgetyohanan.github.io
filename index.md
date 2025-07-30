@@ -6,23 +6,21 @@ I am dedicated to helping the enterprise consistently surpass its targeted goals
 My focus is on enhancing developer productivity by enforcing the DRY (Don’t Repeat Yourself) principle across enterprise processes and tools. 
 Additionally, I aim to improve tool usability across the enterprise to empower developers to focus on achieving business objectives rather than being constrained by the complexities of supporting tools
 
-## Education & Professional Certifications
+### Education & Professional Certifications
 
-- Bachelor of Technology in Computer Science and Engineering – India
+- Bachelor of Technology in Computer Science and Engineering from CUSAT, India
 - AWS Certified Developer – Associate
 - Oracle Certified Professional, Java EE 5 Web Component Developer
 - Sun Certified Programmer for the Java Platform, SE 5.0
 
-## Established Special Skills & Technology Exposures
+### Established Special Skills & Technology Exposures
 
 - 15+ years of development in Java working across AirCargo Management, eCommerce and Financial industries
-- 15+ years working with various Architects and Senior Leadership across three different
-counties (India, Japan, and USA) in multiple industry sectors like Air Cargo, eCommerce,
-and Finance
+- 15+ years serving as an Architect in multiple industry sectors like Air Cargo, eCommerce and Finance in Asia and North America.
 - 10+ years of experience collaborating with business teams to ensure the successful and timely execution of projects for clients across the globe, including Qantas Airlines Australia, NCA and TIACT in Japan, as well as Sears, Experian, REI, and BassPro Cabela’s in the USA. My project portfolio includes:
 
   •	Qantas Airlines Australia (2004): Managed US Mail operations.
-	•	NCA - Nippon Cargo Airlines (2006): Implemented AirMail solutions.
+	•	NCA - Nippon Cargo Airlines (2006): Managed US Mail solutions.
 	•	TIACT - Tokyo International Air Cargo Terminal (2008): Oversaw cargo export and import operations software at the newly established International Air Cargo Terminal.
 	•	Sears (2010): Developed and deployed eCommerce solution.
 	•	Experian (2018): Delivered credit reporting services.
