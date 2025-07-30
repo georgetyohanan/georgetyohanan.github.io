@@ -1,5 +1,6 @@
 title: George's Discoveries
 description: This is a clean, responsive theme for George's Technology discoveries.
-show_downloads: true
+show_downloads: false
+show_comments: true
 google_analytics:
 theme: jekyll-theme-cayman
